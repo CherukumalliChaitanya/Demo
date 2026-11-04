@@ -4,3 +4,5 @@ int main(){
     int c="hello"
     print("hello")
 }
+main()
+hell0()
