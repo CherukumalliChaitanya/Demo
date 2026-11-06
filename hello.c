@@ -1,6 +1,6 @@
 #include <stdio.in>
 int main(){
-    print("hello jejejnenw world")
+    print("hello jejejneerrr world")
     int c="hello"
     print("hello")
 }
