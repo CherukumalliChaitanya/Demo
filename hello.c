@@ -1,7 +1,7 @@
 #include <stdio.in>
 int main(){
-    print("hello jejejneerrr world")
-    int c="hello"
+    print("hejejejneerrr world")
+    int c="welcome"
     print("hello")
 }
 main()
