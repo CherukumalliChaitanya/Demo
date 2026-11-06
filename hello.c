@@ -2,7 +2,7 @@
 int main(){
     print("hello jejejneerrr world")
     int c="hello"
-    print("hello")
+    print("wekcine")
 }
 main()
 hell0()
